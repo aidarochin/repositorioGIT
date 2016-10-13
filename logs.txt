@@ -1,0 +1,41 @@
+commit eae8124905c9dded6671cbc39084abf540937acb
+Author: Andrea Rochin <Andrea Rochin>
+Date:   Thu Oct 13 10:40:50 2016 -0600
+
+    Comandos de GIT
+
+commit c782f7e4812559471c0885145362895ea8639a18
+Author: Andrea Rochin <Andrea Rochin>
+Date:   Tue Oct 11 10:53:56 2016 -0600
+
+    Modificacion al footer
+
+commit af1b0dc1c16bd2465b05d3ba517b862c80dfe54d
+Author: Andrea Rochin <Andrea Rochin>
+Date:   Tue Oct 11 10:46:35 2016 -0600
+
+    Agrege Imagen
+
+commit 2bcbfdc0afc11f1c623aa956ec3030ee94b6327b
+Author: Andrea Rochin <Andrea Rochin>
+Date:   Tue Oct 11 10:41:42 2016 -0600
+
+    Agrege texto
+
+commit 8a58317adaed188268c04e4f38a83e21005984d5
+Author: Andrea Rochin <Andrea Rochin>
+Date:   Tue Oct 11 10:30:32 2016 -0600
+
+    Titulo de la pagina
+
+commit 19e9887881f5de09d3ac60ad330dc0e39c519ee3
+Author: Andrea Rochin <Andrea Rochin>
+Date:   Mon Oct 10 10:57:26 2016 -0600
+
+    Integracion de Bootstrap
+
+commit 85b27027f6e852686df8a841dad850131bd0e352
+Author: Andrea Rochin <Andrea Rochin>
+Date:   Mon Oct 10 10:49:53 2016 -0600
+
+    Estructura inicial
